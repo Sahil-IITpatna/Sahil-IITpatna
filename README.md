@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sahil
 
-🎓 I’m a **2nd-year undergraduate student** pursuing a **B.S. in Computer Science and Data Analytics** at **IIT Patna**.
+🎓 I’m a **3rd-year undergraduate student** pursuing a **B.S. in Computer Science and Data Analytics** at **IIT Patna**.
 
 ---
 
